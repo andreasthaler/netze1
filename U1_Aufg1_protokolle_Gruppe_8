@@ -1,0 +1,16 @@
+a)
+L5: DNS, SSL, HTTP, OCSP
+L4: TLS, TCP
+L3: IP(v4)
+L2: Linux cooked capture
+L1: Wire
+b)
+L5: DNS
+L4: UDP, ICMP
+L3-L1: siehe a)
+c)
+L5: DNS, FTP
+L4: UDP, TCP
+L3-L1: siehe a)
+USER: anonymous
+Datenrate FTP-DATA: 4221 bit/s
